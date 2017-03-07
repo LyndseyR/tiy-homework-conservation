@@ -1,0 +1,36 @@
+@media (min-width: 767px) {
+  p {
+    line-height: 1.6;
+  }
+
+  header {
+  ul {
+    max-width: 80%;
+  }
+  }
+
+.hero-text {
+ max-width: 50%;
+}
+
+.wrapper {
+  max-width: 75%;
+}
+
+.issues {
+  .white-box {
+    float: left;
+    width: 23%;
+    box-sizing: border-box;
+    margin-right: 2%;
+    height: 300px;
+  }
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+}
